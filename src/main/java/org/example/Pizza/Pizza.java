@@ -1,5 +1,7 @@
 package org.example.Pizza;
 
+import org.example.Componentes.Tamanio;
+
 import java.util.List;
 
 public class Pizza{

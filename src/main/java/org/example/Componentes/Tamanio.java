@@ -1,4 +1,4 @@
-package org.example.Pizza;
+package org.example.Componentes;
 
 public enum Tamanio {
     PERSONAL,MEDIANA,GRANDE
